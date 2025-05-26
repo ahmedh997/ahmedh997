@@ -36,14 +36,13 @@
 ## 📊 GitHub Stats & Activity
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedh997&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### ⚡ Recent GitHub Activity
-<!-- GitHub Readme Activity Graph - Make sure to replace 'yourusername' -->
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedh997&theme=react-dark&hide_border=true&area=true)
 
 ### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=ahmedh997&theme=onedark&no-frame=true&row=1)
 
 ---
 
