@@ -1,10 +1,14 @@
-
 # Hi there! I'm Ahmed Hesham 👋🏼  
 
 🚀 **Frontend Developer** with expertise in building modern, interactive, and high-performance web applications.  
 🎨 Passionate about **React.js, Next.js, and Shopify** development, crafting pixel-perfect UI/UX designs.  
 📚 Continuously learning and exploring new frontend technologies to stay ahead in the field.  
 💼 Currently working on exciting projects and open to collaboration opportunities.  
+
+---
+
+## 🌟 Portfolio
+🔗 [ahmedheshamfe.netlify.app](https://ahmedheshamfe.netlify.app/)
 
 ---
 
@@ -27,6 +31,19 @@
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
 ![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
+---
+
+## 📊 GitHub Stats & Activity
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+### ⚡ Recent GitHub Activity
+<!-- GitHub Readme Activity Graph - Make sure to replace 'yourusername' -->
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1)
 
 ---
 
@@ -38,5 +55,3 @@
 ---
 
 Let's build something amazing together! 🚀
-```
-
