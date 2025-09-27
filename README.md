@@ -50,21 +50,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedh997&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📈 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedh997&show_icons=true&theme=radical)
-
-### ⚡ Recent GitHub Activity
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedh997&theme=react-dark&hide_border=true&area=true)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=ahmedh997&theme=onedark&no-frame=true&row=1)
-
----
 
 ## 🚀 Featured Projects
 
