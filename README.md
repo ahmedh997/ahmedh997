@@ -8,7 +8,7 @@
 ---
 
 ## 🌟 Portfolio
-🔗 [ahmedheshamfe.netlify.app](https://ahmedheshamfe.netlify.app/)
+🔗 [ahmed-hesham.dev/)](https://ahmed-hesham.dev/) 
 
 ---
 
@@ -72,7 +72,7 @@
 ## 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhesham2020/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ahmedheshamfe.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ahmed-hesham.dev/)
 📧 **ahmedhesham1616@gmail.com**
 
 ---
