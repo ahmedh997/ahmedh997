@@ -1,14 +1,14 @@
 # Hi there! I'm Ahmed Hesham 👋🏼  
 
 🚀 **Frontend & Full-Stack Developer** specializing in modern web applications and e-commerce solutions.  
-🎨 Passionate about **React.js, Next.js, Shopify, and Webflow** development, crafting pixel-perfect UI/UX experiences.  
+🎨 Passionate about **React.js, Next.js, and Shopify** development, crafting pixel-perfect UI/UX experiences.  
 📚 Continuously expanding my expertise across the full development stack.  
 💼 Open to exciting projects and collaboration opportunities.  
 
 ---
 
 ## 🌟 Portfolio
-🔗 [ahmed-hesham.dev/)](https://ahmed-hesham.dev) 
+🔗 [ahmed-hesham.dev)](https://ahmed-hesham.dev) 
 
 ---
 
@@ -26,7 +26,6 @@
 ![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-%232C3840.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-%234353FF.svg?style=for-the-badge&logo=webflow&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -56,7 +55,6 @@
 ### **E-Commerce Solutions**
 - **Shopify Store Development** - Custom themes and apps using Liquid, React, and Node.js
 - **Headless Commerce** - Next.js /  React.js + Headless CMS
-- **Webflow to Shopify** - Migration and integration specialist
 
 ### **Web Applications**
 - **React/Next.js Apps** - Performance-optimized SPAs and SSR applications with ShadCN/UI
