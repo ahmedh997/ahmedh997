@@ -1,6 +1,6 @@
 # Hi there! I'm Ahmed Hesham 👋🏼  
 
-🚀 **Frontend Shopify Developer** specializing in modern web applications and e-commerce solutions.  
+🚀 **Shopify & Frontend Developer** specializing in modern web applications and e-commerce solutions.  
 🎨 Passionate about **React.js, Next.js, and Shopify** development, crafting pixel-perfect UI/UX experiences.  
 📚 Continuously expanding my expertise across the full development stack.  
 💼 Open to exciting projects and collaboration opportunities.  
